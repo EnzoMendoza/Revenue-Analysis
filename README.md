@@ -1,2 +1,4 @@
 # Revenue-Analysis
-Excel Analysis and Dashboard of Revenue for retail company
+Set of tasks are explained in the "Problems" sheet, all are completed in the "Sales" sheet.
+
+Tasks include sales per region, amount of sales per category, sales per salesperson.
